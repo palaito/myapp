@@ -1,0 +1,121 @@
+.cards-list {
+  z-index: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.car-d {
+  margin: 30px auto;
+  width: 300px;
+  height: 300px;
+  border-radius: 40px;
+box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.22);
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+.car-d .card_image {
+  width: inherit;
+  height: inherit;
+  border-radius: 40px;
+}
+
+.car-d .card_image img {
+  width: inherit;
+  height: inherit;
+  border-radius: 40px;
+  object-fit: cover;
+}
+
+.car-d .card_title >p {
+  border-radius: 0px 0px 40px 40px;
+  text-align: center;
+   font-family: sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: -260px;
+  height: 40px;
+}
+
+.car-d .card_title .emisora-texto {
+  text-align: center;
+padding: 10px;
+
+   font-family: sans-serif;
+
+  font-size: 12px;
+  margin-top: -80px;
+  height: 80px;
+}
+
+.car-d:hover {
+  transform: scale(0.9, 0.9);
+  box-shadow: 5px 5px 30px 15px rgba(0,0,0,0.25), 
+    -5px -5px 30px 15px rgba(0,0,0,0.22);
+}
+
+.title-white {
+  color: rgb(7, 7, 7);
+ 
+}
+
+.title-black {
+  color: black;
+}
+
+@media all and (max-width: 500px) {
+  .cards-list {
+    /* On small screens, we are no longer using row direction but column */
+    flex-direction: column;
+  }
+}
+
+.rhap_volume-button {
+    flex: 0 0 26px;
+    font-size: 26px;
+    width: 26px;
+    height: 26px;
+    color: #575555;
+    margin-right: 6px;
+}
+
+.rhap_container {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    line-height: 1;
+    font-family: inherit;
+    width: 100%;
+    padding: 10px 15px;
+    background-color: rgba(116, 100, 100, 0);
+    box-shadow: 0 0 3px 0 rgba(233, 230, 230, 0.2);
+}
+
+.rhap_container.player {
+  background-color: rgb(228, 56, 44);
+  display: flex;
+  justify-items: center;
+  padding: 0.25em 0.75em;
+  border-radius: 10px;
+}
+
+.rhap_stacked .rhap_controls-section {
+  margin-top: 0 !important;
+}
+
+.rhap_controls-section .rhap_volume-controls {
+  justify-content: center;
+}
+
+.rhap_controls-section .rhap_main-controls button[aria-label="Play"] svg path {
+  fill: #f12711 !important;
+}
+
+.rhap_controls-section .rhap_main-controls button[aria-label="Pause"] svg path {
+  fill: #817e81ee !important;
+}
+h2{
+  color:#f12711
+}

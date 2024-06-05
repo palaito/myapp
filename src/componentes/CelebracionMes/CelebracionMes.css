@@ -1,0 +1,19 @@
+
+
+    .animeText {
+        animation-name: miAnimacion;
+        animation-duration: 3s;
+        animation-direction: alternate;
+        animation-iteration-count: infinite;
+		
+    }
+    
+    @keyframes miAnimacion {
+        from {color: white;}
+        to {
+			color: black;
+			background:white;
+			
+			}
+    }
+

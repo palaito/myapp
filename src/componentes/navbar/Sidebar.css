@@ -1,0 +1,44 @@
+.bm-burger-bars-hover {
+  background: #e00707;
+}
+
+.bm-menu-wrap {
+  position: fixed;
+  height: 100%;
+}
+
+.bm-menu {
+  background: #05050533;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+}
+
+.bm-burger-button {
+  position: fixed;
+  width: 36px;
+  height: 30px;
+  left: 36px;
+  top: 36px;
+}
+
+.bm-burger-bars {
+  background: #f12711;
+}
+
+.bm-cross {
+  background: #fbfcfd;
+}
+
+.bm-item-list {
+  color: #fdfdfb;
+  padding: 0.8em;
+}
+
+.bm-item{
+color:white;
+text-decoration: none;
+}
+
+.bm-item:hover{
+color:#f12711;
+}

@@ -1,0 +1,43 @@
+.dolorosos-contenedor{   
+    box-shadow: 0 3px 13px 2px rgb(68, 67, 61);
+    margin: 10px 10px 50px;
+    padding: 10px;
+   width: 500px;
+   background-color: white;
+   color: black;
+   border-radius: 10px;
+}
+
+.dolorosos-titulo{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.dolorosos-nota{
+text-align: center;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.dolorosos-boton{
+    background-color: black;
+    color: white;
+    padding: 8px;
+    cursor: pointer;
+    border-radius: 20px;
+      
+}
+
+.dolorosos-boton-contenedor{
+   padding: 10px;
+   text-align: center;
+}
+
+@media only screen and (max-width:960px){
+    .dolorosos-contenedor{
+        height: 100%;
+        width: 100%;
+    }
+}
+
