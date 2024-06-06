@@ -63,7 +63,11 @@ export const Biografias = () => {
               la Universidad Central de Venezuela. Isnotu Se distinguió por su
               fe inquebrantable, su castidad perfecta, su humildad y sencillez
               profunda, su excelencia profesional, su tierna devoción a la
-              Virgen, y su gran amor a Dios y al prójimo.
+              Virgen, y su gran amor a Dios y al prójimo. Su afán de perfección
+              lo llevó a la Cartuja; pero el Señor, que los destinaba a servir
+              de ejemplo a los seglares, profesionales e intelectuales de su
+              Patria, por medio de la enfermedad, le impidió coronar sus anhelos
+              de vida monástica o sacerdotal.
               <br></br>
               El 29 de junio de 1919, mientras llevaba medicinas a un enfermo
               necesitado, un automóvil puso fin a su vida ejemplar. El pueblo
