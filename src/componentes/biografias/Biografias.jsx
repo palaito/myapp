@@ -54,8 +54,7 @@ export const Biografias = () => {
           <Modali.Modal {...exampleModal}>
           <p className='text-justify p-3'>
               El Doctor José Gregorio Hernández nació en Isnotú, Estado Trujillo
-              (Venezuela), el 26 de octubre de 1864. Como miembro de su familia
-              y en su Pueblo fue ejemplar. Desde los 13 años, en 1877, fijó su
+              (Venezuela), en 1864. Desde los 13 años, en 1877, fijó su
               residencia en Caracas.<br></br>
               Fue un estudiante sobresaliente y un científico notable. Doctorado
               en Medicina en 1888. Luego de un postgrado en París se dedicó al
@@ -64,11 +63,7 @@ export const Biografias = () => {
               la Universidad Central de Venezuela. Isnotu Se distinguió por su
               fe inquebrantable, su castidad perfecta, su humildad y sencillez
               profunda, su excelencia profesional, su tierna devoción a la
-              Virgen, y su gran amor a Dios y al prójimo. Su afán de perfección
-              lo llevó a la Cartuja; pero el Señor, que los destinaba a servir
-              de ejemplo a los seglares, profesionales e intelectuales de su
-              Patria, por medio de la enfermedad, le impidió coronar sus anhelos
-              de vida monástica o sacerdotal.
+              Virgen, y su gran amor a Dios y al prójimo.
               <br></br>
               El 29 de junio de 1919, mientras llevaba medicinas a un enfermo
               necesitado, un automóvil puso fin a su vida ejemplar. El pueblo
@@ -151,15 +146,14 @@ export const Biografias = () => {
               Se dice que en una visión, San Juan Bosco le dijo que se
               encontraría con su esposo el 1 de noviembre de 1955. Su matrimonio
               se llevó a cabo el 8 de diciembre de 1956, en una capilla de la
-              Basílica de San Pedro en Roma. Era particularmente devota de santa
-              Teresa de Lisieux - la "Pequeña Flor". Los creyentes sostienen
+              Basílica de San Pedro en Roma. Los creyentes sostienen
               que, desde su juventud, vivió una vida de virtud y fidelidad a
               Dios y recibió los dones de conocimiento sobrenatural, la
               curación, la aparición, discernimiento de espíritus, locución,
               éxtasis, levitación, el olor de santidad, los estigmas y la
               capacidad de leer los corazones de los demás. La historia de la
               Virgen de Betania se encuentra directamente relacionada a una
-              mujer venezolana llamada María Esperanza Medrano de Bianchini,
+              mujer venezolana llamada María Esperanza de Bianchini,
               quien desde muy niña vivió apariciones de Santa Teresita del Niño
               Jesús y de la Virgen, entre otros fenómenos.
             </p>
@@ -198,20 +192,15 @@ export const Biografias = () => {
               un buen cúmulo de conocimientos prácticos, que le hacían muy útil
               a sus semejantes y los empleaba para ayudar a mucha gente. Su
               madre, fue una mujer trabajadora, honrada, hacendosa y buena. De
-              ella aprendería Susana su devoción al “Ave María”. En este
-              ambiente familiar de piedad, transcurren los primeros años de
-              Susana; lo que contribuyó a formar en ella una piedad sencilla,
+              ella aprendería Susana su devoción al “Ave María”. 
+              Lo que contribuyó a formar en ella una piedad sencilla,
               pero sólidamente fundada en las virtudes cristianas.
               <br></br>
               Murió en la madrugada del 31 de enero de 1940, a los 77 años. En
               sus últimos segundos de vida, tras pronunciar tres veces el nombre
               de Jesús, se apagó la vida de esta gran mujer. Después de un largo
               proceso La Madre Candelaria de San José fue beatificada el 27 de
-              Abril del 2008 en una misa calificada como "histórica" por la
-              Iglesia venezolana. Realizada el estadio universitario de la UCV,
-              Caracas y con la presencia de más de 50 mil feligreses. El enviado
-              del Papa señaló que la fiesta de la nueva beata se celebrará el 1
-              de febrero.
+              Abril del 2008.
             </div>
           </Modali.Modal>
 
@@ -269,10 +258,7 @@ export const Biografias = () => {
               niños que recibían la primera comunión. En noviembre de 1893, al
               ser fundado el hospital San José por el presbítero Vicente López
               Aveledo, párroco de Maracay, se dedicó al cuidado de los enfermos
-              como hermana hospitalaria y junto con otras jóvenes de igual
-              vocación, el 22 de enero de 1901 fue consagrada como hermana
-              hospitalaria agustina, adoptando el nombre de Sor María de San
-              José.
+              como hermana hospitalaria. 
               <br></br>A pocos días de cumplir 92 años de vida, falleció en la
               Casa Hogar Agustinas Recoletas de Maracay la Madre María de San
               José, un ejemplo férreo e incansable de lucha por las causas
